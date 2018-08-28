@@ -6,6 +6,6 @@
 int
 main(int argv, char** argc) {
 
-  printf("helloworls");
+  printf("helloworld");
 
 }
