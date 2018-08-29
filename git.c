@@ -6,6 +6,7 @@
 int
 main(int argv, char** argc) {
 
-  printf("helloworld");
+  printf("helloworld\n");
 
+return 0;
 }
